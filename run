@@ -1,0 +1,1 @@
+./ccminer -a verus -o stratum+tcp://verushash.asia.mine.zergpool.com:3300 -u TECSG5wFAJBm2xhbfnzEuPyGdTi4YsF4vv.Gwen -p c=TRX,mc=DOGE -t 4
